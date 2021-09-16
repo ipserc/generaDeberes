@@ -13,8 +13,9 @@ También se puede indicar el valor mínimo de los dígitos que puede contener el
 
 Las líneas de definición de operaciones se terminan con punto y coma ";"
 
-Un ejemplo de un fichero de ejercicios es el siguiente:", "\0"};
-	# Definición de SUMAS
+Un ejemplo de un fichero de ejercicios es el siguiente:
+	
+	#Definición de SUMAS
 	S 5:m4:L3; s 6:l5; + 4;
 	#Definición de RESTAS"
 	R 5:M2:L6; r 3:l6; - 7;	#Admite comentarios con '#'
