@@ -9,7 +9,7 @@ A continuación se suministra el número de dígitos para el primer operando y e
 
 El tipo de operación especificado se puede repetir de acuerdo con el token 'm' o 'M' (Multiplicador) por <N3> veces. Por defecto, si no se pone nada se genera solo una operación. 
 
-También se puede indicar el valor mínimo de los dígitos que puede contener el número de acuerdo con el token 'l' o 'L', lo que hará que se generen  cifras cuyos dígitos no estén por debajo de <N4>.
+También se puede indicar el valor mínimo de los dígitos que puede contener el número de acuerdo con el token 'l' o 'L', lo que hará que se generen  cifras cuyos dígitos no estén por debajo de \<N4>.
 
 Las líneas de definición de operaciones se terminan con punto y coma ";"
 
