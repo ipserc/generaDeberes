@@ -1,0 +1,9 @@
+# Definición de SUMAS
+S 5:m4:L3; s 6:l2; + 4;
+#Definición de RESTAS
+R 5:M2:L3; r 3:l3; - 7;	#Admite comentarios con '#'
+#Definición de Productos
+P 4 3:m3:l3; p 6 4:M4:L2; * 5 4;
+#Definición de DIVISIONES
+D 5 2:m3:l3; d 4 3:L3; / 6 2;
+P 4 3:m3:l2;
